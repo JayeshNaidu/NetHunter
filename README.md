@@ -7,6 +7,9 @@ NetHunter is a simple ARP-based network scanner written in Python using Scapy. I
 - 🖥️ Displays the IP and MAC addresses of discovered devices
 - 🎨 Custom banner for a sleek terminal experience
 
+## Why my program stand out?
+- Unlike traditional tools like Nmap, my network scanner simplifies the user experience with an intuitive, easy-to-navigate interface. This reduces complexity and makes it accessible to users of all technical levels without compromising on functionality.
+
 ## Requirements 📋
 - Python 3.x 🐍
 - Scapy (Python networking library)
